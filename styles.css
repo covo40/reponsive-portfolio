@@ -1,0 +1,35 @@
+head {
+    padding: 20px;
+    margin-top: 10px;
+font-stretch: expanded; 
+color: chocolate;   
+}
+
+body { 
+    border: 20px;
+    background-color: ivory;
+    font-style: "Courier";
+    font
+    font-size: 20px;
+    margin: 40px;
+}
+
+div {
+    font-size: 25px;
+    color: chocolate;
+    }
+
+h1 {
+    font-size: 194px;
+    color: brown;
+}
+
+form {
+    margin: 85px;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+    
+
