@@ -1,8 +1,7 @@
 head {
     padding: 20px;
     margin-top: 10px;
-font-stretch: expanded; 
-color: chocolate;   
+    color: chocolate;   
 }
 
 body { 
@@ -20,7 +19,8 @@ div {
     }
 
 h1 {
-    font-size: 194px;
+    margin-top: 60px;
+    font-size: 20px;
     color: brown;
 }
 
